@@ -1,0 +1,20 @@
+.board-row{
+    height:15px;
+    display: flex;
+    width: 235px;
+    margin: auto;
+    margin-top: 50px;
+}
+.square{
+    height: 70px;
+    width: 70px;
+    font-size: larger;
+    font: bold;
+    background-color: white;
+    border: 1px solid black;
+}
+/* .container{
+    height: 100px;
+    width: 100px;
+    margin: auto;
+} */
